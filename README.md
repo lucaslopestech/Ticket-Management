@@ -4,7 +4,7 @@
 
 # Ticket Management System
 
-I developed this system to hone my skills in PHP and MySQL. Throughout the process, I had the opportunity to explore additional tools that proved instrumental in bringing this project to fruition.
+I've developed this ticket management system to simplifies the process of handling tasks, requests, or issues within a team or organization. This system serves as a central hub where users can create tickets to report problems, ask questions, or request assistance. Each ticket contains relevant details such as the nature of the issue and its priority level.
 
 ## ✅ Features
 - Efficient ticket tracking and control
