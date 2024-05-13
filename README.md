@@ -2,16 +2,16 @@
   <img src="images/print.png" alt="print">
 </div>
 
-## Ticket Management System
+# Ticket Management System
 
-This repository contains a ticket management system.
+I developed this system to hone my skills in PHP and MySQL. Throughout the process, I had the opportunity to explore additional tools that proved instrumental in bringing this project to fruition.
 
-###✅ Features:
+## ✅ Features
 - Efficient ticket tracking and control
 - Responsive web design for seamless user experience
 - Integration of Dompdf library for printable user lists
 
-###📜 Usage:
+## 📜 Usage
 1. Ensure you have XAMPP installed on your system.
 2. Start the Apache and MySQL services in XAMPP.
 3. Import the provided SQL file into your MySQL database.
@@ -21,7 +21,7 @@ This repository contains a ticket management system.
 7. Create a new account by providing your name, username, password (MD5 hashed), and role.
 8. Start managing your tickets!
 
-###🖥️ Technologies Used:
+## 🖥️ Technologies Used
 - PHP
 - JavaScript
 - Bootstrap
