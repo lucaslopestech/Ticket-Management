@@ -21,10 +21,13 @@ I've developed this ticket management system to simplifies the process of handli
 7. Create a new account by providing your name, username, password (MD5 hashed), and role.
 8. Start managing your tickets!
 
-## 🖥️ Technologies Used
-- PHP
+## 🖥️ Technologies 
+- PHP 
 - JavaScript
 - Bootstrap
 - HTML
 - CSS
 - Dompdf library
+- Workbench
+- XAMPP
+- Visual Studio Code
