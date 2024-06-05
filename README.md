@@ -24,6 +24,7 @@ I've developed this ticket management system to simplifies the process of handli
 ## 🖥️ Technologies 
 - PHP 
 - JavaScript
+- MySQL
 - Bootstrap
 - HTML
 - CSS
@@ -31,3 +32,4 @@ I've developed this ticket management system to simplifies the process of handli
 - Workbench
 - XAMPP
 - Visual Studio Code
+
